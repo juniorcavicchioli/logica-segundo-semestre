@@ -1,5 +1,5 @@
-# Trabalho 03 - Segundo semestre
-Este é o terceiro checkpoint da disciplina Computional Thinking using Python ministrada pelo professor Edson de Oliveira.
+## Checkpoint03
+É o terceiro checkpoint da disciplina Computional Thinking using Python ministrada pelo professor Edson de Oliveira.
 
 ### atividadeCP03.py
 Solução dos desafios feitos pelo professor.
