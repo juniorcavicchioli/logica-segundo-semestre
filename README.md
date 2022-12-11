@@ -1,3 +1,6 @@
+# Atividades do segundo semestre de lógica de programação
+Encontram-se aqui as atividades feitas no segundo semestre da disciplina Computional Thinking using Python ministrada pelo professor Edson de Oliveira na Faculdade de Informática e Administração Paulista (FIAP).
+
 ## Checkpoint02
 Nota recebida: 10/10. </br>
 Foi desenvolvido em sala de aula por mim e meu colega Vinicius.
